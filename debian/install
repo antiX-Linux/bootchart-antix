@@ -1,0 +1,7 @@
+changelog.gz                   /usr/share/doc/bootchart-antix
+copyright                      /usr/share/doc/bootchart-antix
+bootchartd.conf                /etc
+bootchart-done                 /etc/init.d 
+bootchart-collector            /lib/bootchart
+tmpfs                          /lib/bootchart/
+bootchartd                     /sbin 
